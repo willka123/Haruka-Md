@@ -518,4 +518,6 @@ exports.donate = (pushname, ownerNumber) => {
 wa.me/${ownerNumber} (Owner)`
 }
 
-exports.sewanya = `Untuk List Sewa ubah sendiri di folder command, file help.js 👌 baris ke 521`
+exports.sewanya = `*1 MINGGU 10K
+*1 BULAN 10K*
+*PERMANENT 5K*`
